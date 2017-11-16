@@ -1,0 +1,26 @@
+* {
+  margin: 5px;
+  padding: 0;
+}
+body {
+
+  background: #2c3e50;
+  color: #bdc3c7;
+
+}
+header {
+  margin: 30px;
+  font-size: 10px;
+  font-family: 'Archivo Black', sans-serif;
+  text-align: left;
+}
+article {
+  float: left;
+  width: 30%;
+  overflow: hidden;
+  position: relative;
+}
+article> img {
+  display: block;
+  margin: 0 auto;
+}
