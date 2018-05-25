@@ -6,21 +6,21 @@ body {
 
   background: #2c3e50;
   color: #bdc3c7;
-
 }
+
 header {
   margin: 30px;
   font-size: 10px;
   font-family: 'Archivo Black', sans-serif;
   text-align: left;
 }
-article {
-  float: left;
-  width: 30%;
-  overflow: hidden;
-  position: relative;
+
+.border {
+  background-color: white;
+  height: 10px;
+  width: 100px;
 }
-article> img {
-  display: block;
-  margin: 0 auto;
+
+.image {
+  float: left;
 }
